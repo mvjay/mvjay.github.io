@@ -1,0 +1,141 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Vijay Rajan Machingauth",
+    "label": "Engineering Manager Technical",
+    "email": "vijay.rajan@gmail.com",
+	"image": "./vijay.png",
+	"url": "https://mvjay.github.io",
+    "phone": "(408)-797-4215",
+    "summary": "Building & Leading high-velocity teams focused on delivering Complex Products, Experience managing cross-geo teams, Server SoC Power Management, Firmware Validation, Arch/Micro arch debug in Pre/Post Si Env, ARM and X86 architectures, CAD tools development for Microprocessors/Graphics, C, C++, Python, Perl & Ruby, Emulation bring up/debug/collateral development",
+    "location": {
+      "address": "338 W Rincon Ave",
+      "postalCode": "CA 95008",
+      "city": "Campbell",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "url": "https://linkedin.com/in/vijay-rajan-machingauth-728721"
+      },
+	  {
+        "network": "github",
+        "url": "https://mvjay.github.io/resume/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Intel Corporation",
+      "endDate": "",
+      "highlights": [],
+      "position": "Senior Engineering Manager Technical, IPG, Intel Corporation",
+      "startDate": "2015-11-01",
+      "summary": "Lead the Server Power Management Firmware Validation and the Intel Server Manageability IP Development Teams - Reponsible for delivery of Zero-Defect Power Management FW for all Intel Server Products & Intel Server Manageability IP. Also Lead the Power-Management IP Emulation Strategy",
+      "website": "https://www.linkedin.com/company/intel-corporation/"
+    },
+    {
+      "company": "Samsung India Software Operations, Bangalore",
+      "endDate": "2015-09-01",
+      "highlights": [],
+      "position": "Senior Chief Engineer, Validation Architect",
+      "startDate": "2014-07-01",
+      "summary": "Senior Chief Engineer and Validation Architect responsible for Validation Strategy for Exynos Mobile SoCs. Simulation, Emulation, Multi-IP Validation & Multi-Processor Validation Strategies",
+      "website": "https://www.linkedin.com/company/samsung-india-software-operations-bangalore/"
+    },
+    {
+      "company": "Intel Technology India Pvt Ltd",
+      "endDate": "2014-06-01",
+      "highlights": [],
+      "position": "Technical Lead, Post-Silicon Validation",
+      "startDate": "2012-05-01",
+      "summary": "Lead a team focused on Xeon Power Management Post-Silicon Validation. Driving test content development, execution and debug. Responsibilities include content and execution planning, failure debug for internal and externally reported issues.",
+		"highlights": [
+        "Lead Power Management Post-Si Validation of Jaketown, Ivytown and Broadwell Server"
+      ],
+      "website": "https://www.linkedin.com/company/intel-corporation/"
+    },
+    {
+      "company": "Intel Technology India Pvt Ltd",
+      "endDate": "2014-06-01",
+      "highlights": [],
+      "position": "Technical Lead, Post-Silicon Debug and Debug tools",
+      "startDate": "2010-07-01",
+      "summary": "Lead a team developing Post-Silicon Debug Tools. These tools are used for the Post-Si System Debug of Intel Multi-Core Xeon Microprocessors. Validation of Power-Management features and manual debug of failures.",
+      "website": "https://www.linkedin.com/company/intel-corporation/"
+    },
+    {
+      "company": "Intel Technology India Pvt Ltd",
+      "endDate": "2010-07-01",
+      "highlights": [],
+      "position": "Technical Lead, SV tools",
+      "startDate": "2008-07-01",
+      "summary": "Lead a team to develop Post-Si tools that increased debug productivity and improved TTM.",
+      "website": "https://www.linkedin.com/company/intel-corporation/"
+    },
+    {
+      "company": "Intel Technology India Pvt Ltd",
+      "endDate": "2008-11-01",
+      "highlights": [],
+      "position": "Senior CAD Engineer",
+      "startDate": "2003-10-01",
+      "summary": "Validation tools - Architectural/Micro-Architectural pre-silicon validation tools, Developing simulation/emulation solutions.",
+      "website": "https://www.linkedin.com/company/intel-corporation/"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Minnesota",
+      "area": "Computer Engineering & Math Minor",
+      "studyType": "MS",
+      "startDate": "2001-09-01",
+      "endDate": "2003-05-31",
+      "score": "3.8", 
+	  "courses": ["Computer Architecture", "Advanced Computer Architecture", "VLSI Design I & II", "Design Automation I", "Advanced Algorithms & Data Structures", "Computer Networks"]
+    },
+    {
+      "institution": "Sri Venkateswara College of Engg, Chennai",
+      "area": "Electrical and Electronics Engg",
+      "studyType": "B.E.",
+      "startDate": "1997-06-01",
+      "endDate": "2001-05-31"
+    }
+  ],
+  "awards": [
+    {
+      "title": "IAA at Intel",
+      "date": "2005-05-31",
+      "awarder": "Intel Corportation",
+      "summary": "Intel Achievement Award (IAA) for RTL simulator development and deployment."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English, Tamil, Malayalam, Hindi"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Hardware Architecture & Design",
+      "level": "Master",
+      "keywords": ["Microprocessors", "Debug", "Firmware Design & Validation", "CAD Automation", "RTL Design & Validation", "Architecture", "SystemVerilog", "Post-Si Validation", "SoC Power Management", "Emulation", "Simulation"]
+    },
+    {
+      "name": "Software/Programming Languages",
+      "level": "Master",
+      "keywords": ["C", "C++", "Python", "Perl", "Ruby", "X86/IA32", "General Assembly Language Programming", "Debug"]
+    },
+    {
+      "name": "Leadership",
+      "level": "Master",
+      "keywords": ["Mentoring", "Building & Leading High-Velocity Teams", "Project Management"]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
