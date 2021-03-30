@@ -7,7 +7,7 @@
 	"image": "./vijay.png",
 	"url": "https://mvjay.github.io",
     "phone": "(408)-797-4215",
-    "summary": "Building & Leading high-velocity teams focused on delivering Complex Products, Experience managing cross-geo teams, Server SoC Power Management, Firmware Validation, Arch/Micro arch debug in Pre/Post Si Env, ARM and X86 architectures, CAD tools development for Microprocessors/Graphics, C, C++, Python, Perl & Ruby, Emulation bring up/debug/collateral development",
+    "summary": "Building & leading high-velocity teams focused on delivering complex products, experience managing cross-geo teams, server SoC power management, firmware validation, arch/micro arch debug in pre/post-si env, ARM and X86 architectures, CAD tools development for microprocessors/graphics, C, C++, python, perl & ruby, emulation bring up/debug/collateral development",
     "location": {
       "address": "338 W Rincon Ave",
       "postalCode": "CA 95008",
@@ -33,7 +33,7 @@
       "highlights": [],
       "position": "Senior Engineering Manager Technical, IPG, Intel Corporation",
       "startDate": "2015-11-01",
-      "summary": "Lead the Server Power Management Firmware Validation and the Intel Server Manageability IP Development Teams - Reponsible for delivery of Zero-Defect Power Management FW for all Intel Server Products & Intel Server Manageability IP. Also Lead the Power-Management IP Emulation Strategy",
+      "summary": "Lead the server power management firmware validation and the Intel server manageability IP development teams - reponsible for delivery of zero-defect power management FW for all Intel server products & Intel server manageability IP. Also lead the power-management IP emulation strategy",
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
@@ -42,7 +42,7 @@
       "highlights": [],
       "position": "Senior Chief Engineer, Validation Architect",
       "startDate": "2014-07-01",
-      "summary": "Senior Chief Engineer and Validation Architect responsible for Validation Strategy for Exynos Mobile SoCs. Simulation, Emulation, Multi-IP Validation & Multi-Processor Validation Strategies",
+      "summary": "Senior Chief Engineer and Validation Architect responsible for validation strategy for Exynos mobile SoCs. simulation, emulation, multi-IP validation & multi-processor validation strategies",
       "website": "https://www.linkedin.com/company/samsung-india-software-operations-bangalore/"
     },
     {
@@ -51,9 +51,9 @@
       "highlights": [],
       "position": "Technical Lead, Post-Silicon Validation",
       "startDate": "2012-05-01",
-      "summary": "Lead a team focused on Xeon Power Management Post-Silicon Validation. Driving test content development, execution and debug. Responsibilities include content and execution planning, failure debug for internal and externally reported issues.",
+      "summary": "Lead a team focused on Xeon power management post-silicon validation. Driving test content development, execution and debug. Responsibilities include content and execution planning, failure debug for internal and externally reported issues.",
 		"highlights": [
-        "Lead Power Management Post-Si Validation of Jaketown, Ivytown and Broadwell Server"
+        "Lead power management post-si validation of Jaketown, Ivytown and Broadwell Server"
       ],
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
@@ -63,7 +63,7 @@
       "highlights": [],
       "position": "Technical Lead, Post-Silicon Debug and Debug tools",
       "startDate": "2010-07-01",
-      "summary": "Lead a team developing Post-Silicon Debug Tools. These tools are used for the Post-Si System Debug of Intel Multi-Core Xeon Microprocessors. Validation of Power-Management features and manual debug of failures.",
+      "summary": "Lead a team developing post-silicon debug tools. These tools are used for the post-si system debug of Intel multi-core Xeon Microprocessors. validation of power management features and manual debug of failures.",
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
@@ -72,7 +72,7 @@
       "highlights": [],
       "position": "Technical Lead, SV tools",
       "startDate": "2008-07-01",
-      "summary": "Lead a team to develop Post-Si tools that increased debug productivity and improved TTM.",
+      "summary": "Lead a team to develop post-si tools that increased debug productivity and improved TTM.",
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
@@ -81,7 +81,7 @@
       "highlights": [],
       "position": "Senior CAD Engineer",
       "startDate": "2003-10-01",
-      "summary": "Validation tools - Architectural/Micro-Architectural pre-silicon validation tools, Developing simulation/emulation solutions.",
+      "summary": "Validation tools - architectural/micro-architectural pre-silicon validation tools, developing simulation/emulation solutions.",
       "website": "https://www.linkedin.com/company/intel-corporation/"
     }
   ],
