@@ -2,18 +2,17 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Vijay Rajan Machingauth",
-    "label": "Engineering Manager Technical",
+    "label": "Engineering Director, Intel Corporation",
     "email": "vijay.rajan@gmail.com",
 	"image": "./vijay.png",
 	"url": "https://mvjay.github.io",
     "phone": "(408)-797-4215",
-    "summary": "Building & leading high-velocity teams focused on delivering complex products, experience managing cross-geo teams, server SoC power management, firmware validation, arch/micro arch debug in pre/post-si env, ARM and X86 architectures, CAD tools development for microprocessors/graphics, C, C++, python, perl & ruby, emulation bring up/debug/collateral development",
+    "summary": "Building & leading high-velocity teams focused on solving complex engineering problems, managing cross-geo teams, SoC power management, firmware validation, arch/micro arch debug in pre/post-si env, ARM and X86 architectures, CAD tools development for microprocessors/graphics, emulation bring up/debug/collateral development, Arch simulation & modeling, Virtual Platforms, C, C++, python, perl & ruby",
     "location": {
-      "address": "338 W Rincon Ave",
       "postalCode": "CA 95008",
       "city": "Campbell",
       "countryCode": "US",
-      "region": "California"
+      "region": "California,"
     },
     "profiles": [
       {
@@ -28,16 +27,31 @@
   },
   "work": [
     {
-      "company": "Intel Corporation",
+      "name": "Intel Corporation",
+      "location": "Santa Clara, CA",
       "endDate": "",
       "highlights": [],
-      "position": "Senior Engineering Manager Technical, IPG, Intel Corporation",
-      "startDate": "2015-11-01",
-      "summary": "Lead the server power management firmware validation and the Intel server manageability IP development teams - reponsible for delivery of zero-defect power management FW for all Intel server products & Intel server manageability IP. Also lead the power-management IP emulation strategy",
+      "position": "Engineering Director, Software & Advanced Technology Group",
+      "startDate": "2021-07-01",
+      "summary": "Lead the Client power management virtual platform development team and the Advanced Architecture simulation & modeling team - responsible for delivering client Simics Virtual Platforms with power management capabilities, R&D of advanced simulation capabilities/models that enable various PnPnT studies & use cases",
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
-      "company": "Samsung India Software Operations, Bangalore",
+      "name": "Intel Corporation",
+      "location": "Santa Clara, CA",
+      "endDate": "2021-06-01",
+      "highlights": [],
+      "position": "Senior Engineering Manager Technical, IPG",
+      "startDate": "2015-11-01",
+      "summary": "Led the server power management IP/firmware validation and the Intel server manageability IP development teams - delivering power management FW for all Intel server products & Intel server manageability IP.",
+		"highlights": [
+        "Icelake Server, Snowridge, Icelake-D, Sapphire Rapids, Intel 4 Server Products"
+      ],
+      "website": "https://www.linkedin.com/company/intel-corporation/"
+    },
+    {
+      "name": "Samsung India Software Operations, Bangalore",
+      "location": "Bangalore, India",
       "endDate": "2015-09-01",
       "highlights": [],
       "position": "Senior Chief Engineer, Validation Architect",
@@ -46,37 +60,41 @@
       "website": "https://www.linkedin.com/company/samsung-india-software-operations-bangalore/"
     },
     {
-      "company": "Intel Technology India Pvt Ltd",
+      "name": "Intel Technology India Pvt Ltd",
+      "location": "Bangalore, India",
       "endDate": "2014-06-01",
       "highlights": [],
       "position": "Technical Lead, Post-Silicon Validation",
       "startDate": "2012-05-01",
-      "summary": "Lead a team focused on Xeon power management post-silicon validation. Driving test content development, execution and debug. Responsibilities include content and execution planning, failure debug for internal and externally reported issues.",
+      "summary": "Led a team focused on Xeon power management post-silicon validation. Driving test content development, execution and debug. Responsibilities include content and execution planning, failure debug for internal and externally reported issues.",
 		"highlights": [
         "Lead power management post-si validation of Jaketown, Ivytown and Broadwell Server"
       ],
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
-      "company": "Intel Technology India Pvt Ltd",
+      "name": "Intel Technology India Pvt Ltd",
+      "location": "Bangalore, India",
       "endDate": "2014-06-01",
       "highlights": [],
       "position": "Technical Lead, Post-Silicon Debug and Debug tools",
       "startDate": "2010-07-01",
-      "summary": "Lead a team developing post-silicon debug tools. These tools are used for the post-si system debug of Intel multi-core Xeon Microprocessors. validation of power management features and manual debug of failures.",
+      "summary": "Led a team developing post-silicon debug tools. These tools are used for the post-si system debug of Intel multi-core Xeon Microprocessors. Validation of power management features and manual debug of failures.",
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
-      "company": "Intel Technology India Pvt Ltd",
+      "name": "Intel Technology India Pvt Ltd",
+      "location": "Bangalore, India",
       "endDate": "2010-07-01",
       "highlights": [],
       "position": "Technical Lead, SV tools",
       "startDate": "2008-07-01",
-      "summary": "Lead a team to develop post-si tools that increased debug productivity and improved TTM.",
+      "summary": "Led a team to develop post-si tools that increased debug productivity and improved TTM.",
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
-      "company": "Intel Technology India Pvt Ltd",
+      "name": "Intel Technology India Pvt Ltd",
+      "location": "Bangalore, India",
       "endDate": "2008-11-01",
       "highlights": [],
       "position": "Senior CAD Engineer",
@@ -119,17 +137,14 @@
   "skills": [
     {
       "name": "Hardware Architecture & Design",
-      "level": "Master",
       "keywords": ["Microprocessors", "Debug", "Firmware Design & Validation", "CAD Automation", "RTL Design & Validation", "Architecture", "SystemVerilog", "Post-Si Validation", "SoC Power Management", "Emulation", "Simulation"]
     },
     {
       "name": "Software/Programming Languages",
-      "level": "Master",
       "keywords": ["C", "C++", "Python", "Perl", "Ruby", "X86/IA32", "General Assembly Language Programming", "Debug"]
     },
     {
       "name": "Leadership",
-      "level": "Master",
       "keywords": ["Mentoring", "Building & Leading High-Velocity Teams", "Project Management"]
     }
   ],
