@@ -27,17 +27,17 @@
   },
   "work": [
     {
-      "name": "Intel Corporation",
+      "company": "Intel Corporation",
       "location": "Santa Clara, CA",
       "endDate": "",
       "highlights": [],
       "position": "Engineering Director, Software & Advanced Technology Group",
       "startDate": "2021-07-01",
-      "summary": "Lead the Client power management virtual platform development team and the Advanced Architecture simulation & modeling team - responsible for delivering client Simics Virtual Platforms with power management capabilities, R&D of advanced simulation capabilities/models that enable various PnPnT studies & use cases",
+      "summary": "Lead the Client power management virtual platform development and the Advanced Architecture simulation & modeling teams - responsible for delivering client Simics Virtual Platforms with power management capabilities, R&D of advanced simulation capabilities/models that enable various PnPnT studies & use cases",
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
-      "name": "Intel Corporation",
+      "company": "Intel Corporation",
       "location": "Santa Clara, CA",
       "endDate": "2021-06-01",
       "highlights": [],
@@ -50,17 +50,17 @@
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
-      "name": "Samsung India Software Operations, Bangalore",
+      "company": "Samsung India Software Operations, Bangalore",
       "location": "Bangalore, India",
       "endDate": "2015-09-01",
       "highlights": [],
       "position": "Senior Chief Engineer, Validation Architect",
       "startDate": "2014-07-01",
-      "summary": "Senior Chief Engineer and Validation Architect responsible for validation strategy for Exynos mobile SoCs. simulation, emulation, multi-IP validation & multi-processor validation strategies",
+      "summary": "Senior Chief Engineer and Validation Architect responsible for validation strategy for Exynos mobile SoCs. simulation, emulation, multi-IP & multi-processor validation strategies",
       "website": "https://www.linkedin.com/company/samsung-india-software-operations-bangalore/"
     },
     {
-      "name": "Intel Technology India Pvt Ltd",
+      "company": "Intel Technology India Pvt Ltd",
       "location": "Bangalore, India",
       "endDate": "2014-06-01",
       "highlights": [],
@@ -73,7 +73,7 @@
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
-      "name": "Intel Technology India Pvt Ltd",
+      "company": "Intel Technology India Pvt Ltd",
       "location": "Bangalore, India",
       "endDate": "2014-06-01",
       "highlights": [],
@@ -83,7 +83,7 @@
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
-      "name": "Intel Technology India Pvt Ltd",
+      "company": "Intel Technology India Pvt Ltd",
       "location": "Bangalore, India",
       "endDate": "2010-07-01",
       "highlights": [],
@@ -93,7 +93,7 @@
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
-      "name": "Intel Technology India Pvt Ltd",
+      "company": "Intel Technology India Pvt Ltd",
       "location": "Bangalore, India",
       "endDate": "2008-11-01",
       "highlights": [],
