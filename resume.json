@@ -7,7 +7,7 @@
 	"image": "./vijay.png",
 	"url": "https://mvjay.github.io",
     "phone": "(408)-797-4215",
-    "summary": "Dynamic Technical Leader: Building high-velocity, cross-geo teams to solve complex engineering challenges in system power management, firmware/IP/SoC design and validation across X86 and ARM Architectures. Expertise in CAD tools development, emulation, virtual platforms, and architectural modeling for power, performance, and thermal projections.",
+    "summary": "Dynamic Technical Leader: Building high-velocity, cross-geo teams to solve complex engineering challenges in system power management (PM), firmware/IP/SoC design and validation across X86 and ARM Architectures. Expertise in CAD tools development, emulation, virtual platforms, and architectural modeling for power, performance, and thermal projections.",
     "location": {
       "postalCode": "CA 95008",
       "city": "Campbell",
@@ -33,9 +33,9 @@
       "highlights": [],
       "position": "Engineering Director, Software & Advanced Technology Group",
       "startDate": "2021-07-01",
-      "summary": "Lead the client power management virtual platform and the Simulation Architecture teams - responsible for delivering virtual platforms for Intel's client products with power management capabilities, R&D of advanced simulation capabilities. Hands-on role setting the technical direction & strategy, design, modeling, development, platform debug and deployment. ",
+      "summary": "Lead the client power management (PM) virtual platform (VP) and the Simulation Architecture teams - responsible for delivering virtual platforms for Intel's client products with PM capabilities, R&D of advanced simulation capabilities. Hands-on role setting the technical direction & strategy, design, modeling, development, platform debug and deployment. ",
       "highlights": [
-        "A first at Intel, the team delivered several critical platform power management flows on a virtual platform with the full software stack that inclues OS, FW and drivers. Transforming several foundational simulation and modeling capabilities like code generation focusing on efficiency and quality. Team driving software development practices and training"
+        "A first at Intel, the team delivered several critical platform PMflows on a VP with full software stack that inclues OS, FW and drivers. Transforming several foundational simulation and modeling capabilities like code generation focusing on efficiency and quality. Team driving software development practices and training"
       ],
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
@@ -46,9 +46,9 @@
       "highlights": [],
       "position": "Senior Engineering Manager Technical, IPG",
       "startDate": "2015-11-01",
-      "summary": "Led the server power management IP and firmware validation and the Intel server manageability IP development teams - delivering power management and manageability IPs and FW for all Intel server products.",
+      "summary": "Led the server PM IP/firmware validation and the Intel server manageability IP development teams - delivering PM and manageability IPs and FW for all Intel server products.",
 		"highlights": [
-        "Delivered manageability IP and power management FW for Icelake Server, Snowridge, Icelake-D, Sapphire Rapids, Intel 3 and 4 Server Products", "Instrumental in driving significant improvements in IP and FW quality keeping pace with increasing complexity and scope gen-over-gen"
+        "Delivered manageability IP and PM FW for Icelake Server, Snowridge, Icelake-D, Sapphire Rapids, Intel 3 and 4 Server Products", "Instrumental in driving significant improvements in IP and FW quality keeping pace with increasing complexity and scope gen-over-gen"
       ],
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
@@ -60,7 +60,7 @@
       "position": "Senior Chief Engineer, Validation Architect",
       "startDate": "2014-07-01",
       "summary": "Senior Chief Engineer and Validation Architect responsible for validation strategy for Exynos mobile SoCs. simulation, emulation, multi-IP & multi-processor validation strategies",
-      "highlights": ["Built IP and sub-system validation strategy for power management and memory. Lead the collaboration with industry EDA partners including Cadence, Synopsys and Mentor delivering verification strategies eg Perspec, Jaspergold"],
+      "highlights": ["Built IP and sub-system validation strategy for PM and memory. Lead the collaboration with industry EDA partners including Cadence, Synopsys and Mentor delivering verification strategies eg Perspec, Jaspergold"],
       "website": "https://www.linkedin.com/company/samsung-india-software-operations-bangalore/"
     },
     {
@@ -70,8 +70,8 @@
       "highlights": [],
       "position": "Technical Lead, Post-Silicon Validation",
       "startDate": "2012-05-01",
-      "summary": "Led a team focused on Xeon power management post-silicon validation on Jaketown, Ivytown and Broadwell server. Driving test content development, execution and debug. Responsibilities include content and execution planning, failure debug for internal and externally reported issues. ",
-		"highlights": ["Established Server power management Post-si Expertise in the Bangalore development center and delivered several product launches, meeting and beating expectations"],
+      "summary": "Led a team focused on Xeon PM post-silicon validation on Jaketown, Ivytown and Broadwell server. Driving test content development, execution and debug. Responsibilities include content and execution planning, failure debug for internal and customer reported issues. ",
+		"highlights": ["Established Server PM Post-si expertise in the Bangalore development center and delivered several product launches, meeting and beating expectations"],
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
