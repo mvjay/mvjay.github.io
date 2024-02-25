@@ -35,7 +35,7 @@
       "startDate": "2021-07-01",
       "summary": "Lead the client power management (PM) virtual platform (VP) and the Simulation Architecture teams - responsible for delivering virtual platforms for Intel's client products with PM capabilities, R&D of advanced simulation capabilities. Hands-on role setting the technical direction & strategy, design, modeling, development, platform debug and deployment. ",
       "highlights": [
-        "A first at Intel, the team delivered several critical platform PMflows on a VP with full software stack that inclues OS, FW and drivers. Transforming several foundational simulation and modeling capabilities like code generation focusing on efficiency and quality. Team driving software development practices and training"
+        "A first at Intel, the team delivered several critical platform PM flows on a VP with full software stack that inclues OS, FW and drivers. Transforming several foundational simulation and modeling capabilities like code generation focusing on efficiency and quality. Team driving software development practices and training"
       ],
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
@@ -59,7 +59,7 @@
       "highlights": [],
       "position": "Senior Chief Engineer, Validation Architect",
       "startDate": "2014-07-01",
-      "summary": "Senior Chief Engineer and Validation Architect responsible for validation strategy for Exynos mobile SoCs. simulation, emulation, multi-IP & multi-processor validation strategies",
+      "summary": "Senior Chief Engineer and Validation Architect responsible for validation strategy for Exynos mobile SoCs. Simulation, emulation, multi-IP & multi-processor validation strategies",
       "highlights": ["Built IP and sub-system validation strategy for PM and memory. Lead the collaboration with industry EDA partners including Cadence, Synopsys and Mentor delivering verification strategies eg Perspec, Jaspergold"],
       "website": "https://www.linkedin.com/company/samsung-india-software-operations-bangalore/"
     },
@@ -81,8 +81,8 @@
       "highlights": [],
       "position": "Technical Lead, Post-Silicon Debug and Debug tools",
       "startDate": "2010-07-01",
-      "summary": "Led a team developing post-silicon debug tools. These tools are used for the post-si system debug of Intel multi-core Xeon Microprocessors. Validation of power management features and manual debug of failures.",
-      "highlights": ["Lead the team to deliver a SMI based Si-to-Model failure reproduction flow for the first time on a Server product - Ivytown"],
+      "summary": "Led a team developing post-silicon debug tools. These tools are used for the post-si system debug of Intel multi-core Xeon Microprocessors. Validation of PM features and manual debug of failures.",
+      "highlights": ["Lead the team to deliver a SMI (interrupt) based Si-to-Model failure reproduction flow for the first time on a Server product - Ivytown"],
       "website": "https://www.linkedin.com/company/intel-corporation/"
     },
     {
