@@ -27,9 +27,22 @@
   },
   "work": [
     {
+      "company": "Apple",
+      "location": "Cupertino, CA",
+      "endDate": "",
+      "highlights": [],
+      "position": "Silicon Readiness Leadp",
+      "startDate": "2021-01-01",
+      "summary": "Lead the Silicon Readiness efforts for SoCs that power various Apple products. Run workgroups and task forces that drives Software and Firmware readiness with the primary goal to accelerare Silicon bring-up and validation plans in order to reduce time-to-market",
+      "highlights": [
+        "Driving benchmarking and lessons learnt programs to continously improve Silicon readiness at Apple"
+      ],
+      "website": "https://www.linkedin.com/company/apple"
+    },
+    {
       "company": "Intel Corporation",
       "location": "Santa Clara, CA",
-      "endDate": "",
+      "endDate": "2025-01-01",
       "highlights": [],
       "position": "Engineering Director, Platform simulation group",
       "startDate": "2021-07-01",
