@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Vijay Rajan Machingauth",
-    "label": "Engineering Director, Intel Corporation",
+    "label": "Silicon Readiness Lead, Apple",
     "email": "vijay.rajan@gmail.com",
 	"image": "vijay.png",
 	"url": "https://mvjay.github.io",
     "phone": "(408)-797-4215",
-    "summary": "Dynamic Technical Leader with experience building high-velocity, cross-geo teams to solve complex engineering challenges. Technical expertise and leadership experience across Firmware design, validation, debug & enabling, Post-si validation, architecture, design and verification, Platform & system software simulation",
+    "summary": "Dynamic Technical Leader with experience building high-velocity, cross-geo teams to solve complex engineering challenges. Technical expertise and leadership experience across Power Management, Firmware design and validation, debug & enabling, Post-si validation, architecture, design and verification, Platform & system software simulation",
     "location": {
       "postalCode": "CA 95008",
       "city": "Campbell",
@@ -31,7 +31,7 @@
       "location": "Cupertino, CA",
       "endDate": "",
       "highlights": [],
-      "position": "Silicon Readiness Leadp",
+      "position": "Silicon Readiness Lead",
       "startDate": "2021-01-01",
       "summary": "Lead the Silicon Readiness efforts for SoCs that power various Apple products. Run workgroups and task forces that drives Software and Firmware readiness with the primary goal to accelerare Silicon bring-up and validation plans in order to reduce time-to-market",
       "highlights": [
@@ -143,7 +143,7 @@
   "skills": [
     {
       "name": "Architecture, design & validation",
-      "keywords": ["Post-Si Validation", "SoC Power Management", "Firmware Design & Validation", "RTL Design & Validation", "Architecture", "Emulation", "Simulation"]
+      "keywords": ["SoC Power Management", "Silicon Readiness", "Post-Si Validation","Firmware Design & Validation", "RTL Design & Validation", "Architecture", "Emulation", "Simulation"]
     },
     {
       "name": "Software/Programming Languages",
