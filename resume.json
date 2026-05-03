@@ -48,7 +48,7 @@
       "highlights": [],
       "position": "Engineering Director, Platform simulation group",
       "startDate": "2021-07-01",
-      "summary": "Led the client virtual platform (VP) and the Simulation Architecture teams - responsible for delivering virtual platforms with complete Firmware, driver, software stack for Intel's client products, R&D of advanced simulation capabilities. Hands-on role setting the technical direction & strategy, design, modeling, development, platform debug and deployment. ",
+      "summary": "Led the client virtual platform (Simics, VP) and the Simulation Architecture teams - responsible for delivering virtual platforms with complete Firmware, driver, software stack for Intel's client products, R&D of advanced simulation capabilities. Hands-on role setting the technical direction & strategy, design, modeling, development, platform debug and deployment. ",
       "highlights": [
         "A first at Intel, the team delivered several critical platform power management flows on the Lunarlake and Pantherlake VP with full stack OS, FW and drivers. transforming foundational simulation and modeling capabilities like code generation focusing on efficiency and quality. Team driving software development practices and training"
       ],
