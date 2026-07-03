@@ -43,9 +43,16 @@
 			"SoC Power Management",
 			"Silicon Readiness",
 			"Post-Silicon Validation",
-			"Firmware Design",
+			"Firmware Design and Validation",
+			"RTL Design and Validation",
+			"Simulation/Emulation",
 			"Platform Simulation",
-			"RTL Design"
+			"C",
+			"C++",
+			"Python",
+			"X86",
+			"Project Management",
+			"Team Leadership"
 		]
 	}
 	</script>
@@ -249,19 +256,34 @@ ul {
     clear: both; }
 
 .resume-content {
+  display: block; }
+
+.contact-bar {
+  clear: both;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 20px;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #e8e8e8; }
+
+.contact-bar .info-tag-container {
+  margin-bottom: 0; }
+
+.contact-bar .info-text {
+  width: auto; }
+
+.skills-grid {
   display: grid;
-  grid-template-columns: 160px 1fr;
-  grid-template-areas: "sidebar main";
-  column-gap: 20px; }
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0 24px; }
 
-.left-column {
-  grid-area: sidebar;
-  width: 160px;
-  word-wrap: break-word; }
+.skills-grid .container {
+  padding-top: 20px; }
 
-.right-column {
-  grid-area: main;
-  min-width: 0; }
+.skills-grid ul.minimal li {
+  font-size: 10px; }
 
 .item {
   margin-bottom: 15px; }
@@ -317,9 +339,6 @@ ul {
 .contact-info {
   font-style: normal; }
 
-.left-column ul.minimal li {
-  font-size: 10px; }
-
 .references-container .fa {
   font-size: 14px; }
 
@@ -335,9 +354,22 @@ ul {
 			    <div class="profile-pic pull-right">
 			        <img src="vijay.png" alt="Vijay R Machingauth">
 			    </div>
+			    <address class="contact-bar contact-info">
+			        <div class="info-tag-container">
+			            <i class="fa fa-map-marker" aria-hidden="true"></i>
+			            <span class="info-text">Campbell, California, CA 95008</span>
+			        </div>
+			        <div class="info-tag-container">
+			            <i class="fa fa-envelope-o" aria-hidden="true"></i>
+			            <span class="info-text"><a href="mailto:vijay.rajan@gmail.com">vijay.rajan@gmail.com</a></span>
+			        </div>
+			        <div class="info-tag-container">
+			            <i class="fa fa-mobile" aria-hidden="true"></i>
+			            <span class="info-text"><a href="tel:+14087974215">(408)-797-4215</a></span>
+			        </div>
+			    </address>
 			</header>
-			<div class="resume-content">
-				<div class="right-column">
+			<article class="resume-content">
 					        <div class="container summary-container">
 					            <div class="title">
 					                <h3>Summary</h3>
@@ -549,85 +581,46 @@ ul {
 					            <p class="summary">Intel Achievement Award (IAA) for RTL simulator development and deployment.</p>
 					        </section>
 					</div>
-				</div>
-				<aside class="left-column" aria-label="Contact and skills">
-					<div class="container about-container">
-					    <div class="title">
-					        <h3>About</h3>
-					        <div class="keyline"></div>
-					    </div>
-					    <address class="contact-info">
-					        <div class="info-tag-container">
-					            <i class="fa fa-map-marker" aria-hidden="true"></i>
-					            <span class="info-text">Campbell, California, CA 95008</span>
-					        </div>
-					        <div class="info-tag-container">
-					            <i class="fa fa-envelope-o" aria-hidden="true"></i>
-					            <span class="info-text">
-					                <a href="mailto:vijay.rajan@gmail.com">vijay.rajan@gmail.com</a>
-					            </span>
-					        </div>
-					        <div class="info-tag-container">
-					            <i class="fa fa-mobile" aria-hidden="true"></i>
-					            <span class="info-text">
-					                <a href="tel:+14087974215">(408)-797-4215</a>
-					            </span>
-					        </div>
-					    </address>
-					</div>
-					    <div class="skills-container">
-					            <section class="container">
-					                    <div class="title">
-					                        <h3>Architecture, design &amp; validation</h3>
-					                        <div class="keyline"></div>
-					                    </div>                    <ul class="minimal">
-					                            <li>SoC Power Management</li>
-					                            <li>Silicon Readiness</li>
-					                            <li>Post-Si Validation</li>
-					                            <li>Firmware Design &amp; Validation</li>
-					                            <li>RTL Design &amp; Validation</li>
-					                            <li>Architecture</li>
-					                            <li>Emulation</li>
-					                            <li>Simulation</li>
-					                    </ul>
-					            </section>
-					            <section class="container">
-					                    <div class="title">
-					                        <h3>Software/Programming Languages</h3>
-					                        <div class="keyline"></div>
-					                    </div>                    <ul class="minimal">
-					                            <li>C</li>
-					                            <li>C++</li>
-					                            <li>Python</li>
-					                            <li>Perl</li>
-					                            <li>Ruby</li>
-					                            <li>X86/IA32</li>
-					                            <li>General Assembly Language Programming</li>
-					                            <li>Debug</li>
-					                    </ul>
-					            </section>
-					            <section class="container">
-					                    <div class="title">
-					                        <h3>Leadership</h3>
-					                        <div class="keyline"></div>
-					                    </div>                    <ul class="minimal">
-					                            <li>Mentoring</li>
-					                            <li>Building &amp; Leading High-Velocity Teams</li>
-					                            <li>Project Management</li>
-					                    </ul>
-					            </section>
-					    </div>
-					    <div class="container languages-container">
-					        <div class="title">
-					            <h3>Languages</h3>
-					            <div class="keyline"></div>
-					        </div>
-					        <ul class="minimal">
-					                <li>English, Tamil, Malayalam, Hindi</li>
-					        </ul>
-					    </div>
-				</aside>
-			</div>
+				<section class="skills-grid" aria-label="Skills">
+				            <div class="container">
+				                    <div class="title">
+				                        <h3>Architecture, design &amp; validation</h3>
+				                        <div class="keyline"></div>
+				                    </div>
+				                    <ul class="minimal">
+				                            <li>SoC Power Management</li>
+				                            <li>Silicon Readiness</li>
+				                            <li>Post-Si Validation</li>
+				                            <li>Firmware Design &amp; Validation</li>
+				                            <li>RTL Design &amp; Validation</li>
+				                            <li>Simulation/Emulation</li>
+				                    </ul>
+				            </div>
+				            <div class="container">
+				                    <div class="title">
+				                        <h3>Software/Languages</h3>
+				                        <div class="keyline"></div>
+				                    </div>
+				                    <ul class="minimal">
+				                            <li>C</li>
+				                            <li>C++</li>
+				                            <li>Python</li>
+				                            <li>X86</li>
+				                    </ul>
+				            </div>
+				            <div class="container">
+				                    <div class="title">
+				                        <h3>Leadership</h3>
+				                        <div class="keyline"></div>
+				                    </div>
+				                    <ul class="minimal">
+				                            <li>Mentoring</li>
+				                            <li>Building &amp; Leading High-Velocity Teams</li>
+				                            <li>Project Management</li>
+				                    </ul>
+				            </div>
+				</section>
+			</article>
 		</main>
 	</body>
 </html>

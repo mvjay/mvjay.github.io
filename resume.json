@@ -137,19 +137,14 @@
       "summary": "Intel Achievement Award (IAA) for RTL simulator development and deployment."
     }
   ],
-  "languages": [
-    {
-      "language": "English, Tamil, Malayalam, Hindi"
-    }
-  ],
   "skills": [
     {
       "name": "Architecture, design & validation",
-      "keywords": ["SoC Power Management", "Silicon Readiness", "Post-Si Validation","Firmware Design & Validation", "RTL Design & Validation", "Architecture", "Emulation", "Simulation"]
+      "keywords": ["SoC Power Management", "Silicon Readiness", "Post-Si Validation", "Firmware Design & Validation", "RTL Design & Validation", "Simulation/Emulation"]
     },
     {
-      "name": "Software/Programming Languages",
-      "keywords": ["C", "C++", "Python", "Perl", "Ruby", "X86/IA32", "General Assembly Language Programming", "Debug"]
+      "name": "Software/Languages",
+      "keywords": ["C", "C++", "Python", "X86"]
     },
     {
       "name": "Leadership",
